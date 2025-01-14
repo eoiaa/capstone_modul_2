@@ -1,0 +1,23 @@
+# Direktori Virtual Environment
+venv/
+.env/
+
+# File konfigurasi pribadi
+*.env
+config.json
+
+# File cache
+__pycache__/
+*.pyc
+
+# File log
+*.log
+
+# Direktori hasil build
+build/
+dist/
+
+# Folder IDE
+.vscode/
+.idea/
+
